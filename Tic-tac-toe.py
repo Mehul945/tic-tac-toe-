@@ -1,15 +1,4 @@
-# from pytube import YouTube
-# a=input("enter link : ")
-# reso = input("enter reso : ")
-# yt = YouTube(a)
-# print(yt.streams)
-# t = yt.streams.filter(progressive="True", res=reso)
-# for i in range(len(t)):
-    # print(t[i])
-    # print("<<<< START DOWNLODING >>>>")
-    # t.first().download()
-    # print("<<<< FINISED >>>>")
-# print(random.randint(1,100))
+
 a="""
    |   |   
 ___|___|___
